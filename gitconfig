@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = pineau.celine@gmail.com
+	name = Celine Pineau
